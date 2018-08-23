@@ -1,0 +1,17 @@
+<html>
+<head>
+<title></title>
+</head>
+
+<body>
+<h1>tabela</h1>
+<table border="1">
+<tr>
+<td width="500" height="350">esquerda</td>
+<td width="250" align="center">bolacha</td>
+<td width="100" align="right">direita</td>
+</tr>
+</table>
+
+</body>
+</html>
